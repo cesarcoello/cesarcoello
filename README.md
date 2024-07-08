@@ -1,9 +1,8 @@
 <h1 align="center">Hola 👋, soy César,</h1>
 <h3 align="center">Un desarrollador frontend desde Honduras.</h3>
 
-<h3 align="left">Conéctate conmigo:</h3>  **cesarcoellomr@gmail.com**
-<p align="left">
-</p>
+# Contáctame: 
+**cesarcoellomr@gmail.com**
 
 # 💻 Tecnologías y herramientas:
 <div align="left">  
