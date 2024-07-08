@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy César,</h1>
 <h3 align="center">Un desarrollador frontend desde Honduras.</h3>
 
-# Contáctame: 
-**cesarcoellomr@gmail.com**
+<a href="https://www.linkedin.com/in/cesarcoello/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 # 💻 Tecnologías y herramientas:
 <div align="left">  
